@@ -18,7 +18,7 @@ def isPrime(num):
                 return False
         return True            
 
-La suma de  4 niños * 4 niñas es igual a 16 niños totales
+La multiplicacion de  2.7 * 3.1416 es igual a 8.48232 centimetros
 multiplicacion 
 division 
 resta 10 + 55= 65 
